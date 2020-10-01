@@ -21,7 +21,7 @@
 title: Someman Budhathoki Blog
 email: bsomeman326@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-"Natural Language Processing and Tame Impala"
+Natural Language Processing and Machine Learning
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://xettrisomeman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: i_m_OnlyOne
