@@ -28,7 +28,8 @@ twitter_username: i_m_OnlyOne
 github_username:  xettrisomeman
 
 # Build settings
-theme: minima
+# theme: minima
+
 plugins:
   - jekyll-feed
 
