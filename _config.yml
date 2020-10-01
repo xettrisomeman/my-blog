@@ -27,6 +27,15 @@ url: "https://xettrisomeman.github.io" # the base hostname & protocol for your s
 twitter_username: i_m_OnlyOne
 github_username:  xettrisomeman
 
+
+#add author
+author: Samman Budhathoki
+
+
+#field not used by minima theme
+
+copyright: "Everest"
+linkedin_username : someman-budhathoki
 # Build settings
 # theme: minima
 
