@@ -38,6 +38,7 @@ copyright: "Everest"
 linkedin_username : someman-budhathoki
 # Build settings
 # theme: minima
+#this is related to jekyll
 
 plugins:
   - jekyll-feed
